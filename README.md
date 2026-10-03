@@ -85,7 +85,7 @@ entre_paginas/ ├────── CONFIG
 
 
 ## 🚀 Como executar
-1. Clone este repositório: bash git clone https://github.com/IongaLKS/entre_paginas-livraria.git
+1. Clone este repositório: bash git clone https://github.com/GustavoDeJesusSouzaEmidio/Entre-Paginas
 2. Coloque a pasta do projeto em htdocs (XAMPP).
 3.  Inicie o Apache e o MySQL.
 4. Configure o banco de dados.
