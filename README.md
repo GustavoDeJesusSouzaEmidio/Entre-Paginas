@@ -1,4 +1,4 @@
-entre_paginas Livraria
+Entre Páginas Livraria
 Sistema web desenvolvido em PHP, utilizando o padrão de arquitetura MVC (Model-View-Controller), para gerenciamento interno de uma livraria vitual. 
 
 Funcionalidades 
@@ -47,8 +47,6 @@ entre_paginas/ ├────── CONFIG
 
 ├── ProdutoController 
 
-├── SobreController 
-
 ├── UsuarioController 
 
 ├────── MODELS 
@@ -94,19 +92,7 @@ entre_paginas/ ├────── CONFIG
 5. Acesse no navegador: http://localhost/entre_paginas
    
 ---
-## 👥 Equipe
 
-| Integrante | Função |
-|------------|--------|
-| Isabella Cristina Prieto Araujo | Desenvolvedora Front-end |
-| Ian Gonçalves | Desenvolvedor Back-end (PHP) |
-| Rita De Cássia | Designer Chefe de Banco de Dados |
-| Ana Laura Flor | Segunda Chefe de Banco de Dados |
-| Mariana Crelier | Responsável pela Identidade Visual |
-| Djenyffer Alves | Responsável pela Identidade Visual |
-
-
----
 ## 📄 Licença
 
 Projeto desenvolvido para fins acadêmicos.
